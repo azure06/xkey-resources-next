@@ -1,0 +1,543 @@
+{
+    "default": {
+        "FileNewDefault": {
+            "keySequence": "Ctrl+N",
+            "systemOverride": false,
+            "options": null
+        },
+        "FileOpenUsingBackstage": {
+            "keySequence": "Ctrl+O",
+            "systemOverride": false,
+            "options": null
+        },
+        "FileSave": {
+            "keySequence": "Ctrl+S",
+            "systemOverride": false,
+            "options": null
+        },
+        "FilePrintQuick": {
+            "keySequence": "Ctrl+P",
+            "systemOverride": false,
+            "options": null
+        },
+        "Undo": {
+            "keySequence": "Ctrl+Z",
+            "systemOverride": false,
+            "options": null
+        },
+        "Paste": {
+            "keySequence": "Ctrl+V",
+            "systemOverride": false,
+            "options": null
+        },
+        "Cut": {
+            "keySequence": "Ctrl+X",
+            "systemOverride": false,
+            "options": null
+        },
+        "Copy": {
+            "keySequence": "Ctrl+C",
+            "systemOverride": false,
+            "options": null
+        },
+        "PasteDuplicate": {
+            "keySequence": "Ctrl+D",
+            "systemOverride": false,
+            "options": null
+        },
+        "SlideNewGallery": {
+            "keySequence": "Ctrl+M",
+            "systemOverride": false,
+            "options": null
+        },
+        "DuplicateSelectedSlides": {
+            "keySequence": "Ctrl+Shift+D",
+            "systemOverride": false,
+            "options": null
+        },
+        "FontSizeIncrease": {
+            "keySequence": "Ctrl+Shift+.",
+            "systemOverride": false,
+            "options": null
+        },
+        "FontSizeDecrease": {
+            "keySequence": "Ctrl+Shift+,",
+            "systemOverride": false,
+            "options": null
+        },
+        "Bold": {
+            "keySequence": "Ctrl+B",
+            "systemOverride": false,
+            "options": null
+        },
+        "Italic": {
+            "keySequence": "Ctrl+I",
+            "systemOverride": false,
+            "options": null
+        },
+        "Underline": {
+            "keySequence": "Ctrl+U",
+            "systemOverride": false,
+            "options": null
+        },
+        "IndentDecrease": {
+            "keySequence": "Shift+Alt+Left",
+            "systemOverride": false,
+            "options": null
+        },
+        "IndentIncrease": {
+            "keySequence": "Shift+Alt+Right",
+            "systemOverride": false,
+            "options": null
+        },
+        "AlignLeft": {
+            "keySequence": "Ctrl+L",
+            "systemOverride": false,
+            "options": null
+        },
+        "AlignCenter": {
+            "keySequence": "Ctrl+E",
+            "systemOverride": false,
+            "options": null
+        },
+        "AlignRight": {
+            "keySequence": "Ctrl+R",
+            "systemOverride": false,
+            "options": null
+        },
+        "ObjectsGroup": {
+            "keySequence": "Ctrl+G",
+            "systemOverride": false,
+            "options": null
+        },
+        "ObjectsUngroup": {
+            "keySequence": "Ctrl+Shift+G",
+            "systemOverride": false,
+            "options": null
+        },
+        "ReplaceDialog": {
+            "keySequence": "Ctrl+H",
+            "systemOverride": false,
+            "options": null
+        },
+        "FindDialog": {
+            "keySequence": "Ctrl+F",
+            "systemOverride": false,
+            "options": null
+        },
+        "SelectAll": {
+            "keySequence": "Ctrl+A",
+            "systemOverride": false,
+            "options": null
+        },
+        "Superscript": {
+            "keySequence": "Ctrl+Shift+;",
+            "systemOverride": false,
+            "options": null
+        },
+        "Subscript": {
+            "keySequence": "Ctrl+;",
+            "systemOverride": false,
+            "options": null
+        },
+        "FileSaveACopy": {
+            "keySequence": "Ctrl+Shift+S",
+            "systemOverride": false,
+            "options": null
+        },
+        "SlideShowFromBeginning": {
+            "keySequence": "F5",
+            "systemOverride": false,
+            "options": null
+        },
+        "SlideShowFromCurrent": {
+            "keySequence": "Shift+F5",
+            "systemOverride": false,
+            "options": null
+        },
+        "PrintPreviewAndPrint": {
+            "keySequence": "Ctrl+F2",
+            "systemOverride": false,
+            "options": null
+        },
+        "AlignJustify": {
+            "keySequence": "Ctrl+J",
+            "systemOverride": false,
+            "options": null
+        },
+        "ChangeCaseGallery": {
+            "keySequence": "Ctrl+F3",
+            "systemOverride": false,
+            "options": null
+        },
+        "HyperlinkInsert": {
+            "keySequence": "Ctrl+K",
+            "systemOverride": false,
+            "options": null
+        },
+        "ObjectsRegroup": {
+            "keySequence": "Ctrl+Shift+J",
+            "systemOverride": false,
+            "options": null
+        },
+        "FileClose": {
+            "keySequence": "Ctrl+Q",
+            "systemOverride": false,
+            "options": null
+        },
+        "ObjectBringToFront": {
+            "keySequence": "Alt+Shift+F",
+            "systemOverride": true,
+            "options": []
+        },
+        "SlideReset": {
+            "keySequence": "Ctrl+Alt+R",
+            "systemOverride": true,
+            "options": []
+        },
+        "ObjectsAlignLeftSmart": {
+            "keySequence": "Ctrl+Alt+Left",
+            "systemOverride": true,
+            "options": []
+        },
+        "ObjectsAlignRightSmart": {
+            "keySequence": "Ctrl+Alt+Right",
+            "systemOverride": true,
+            "options": []
+        },
+        "ObjectsAlignTopSmart": {
+            "keySequence": "Ctrl+Alt+Up",
+            "systemOverride": true,
+            "options": []
+        },
+        "ObjectsAlignBottomSmart": {
+            "keySequence": "Ctrl+Alt+Down",
+            "systemOverride": true,
+            "options": []
+        },
+        "AlignDistributeHorizontally": {
+            "keySequence": "Alt+Shift+H",
+            "systemOverride": true,
+            "options": []
+        },
+        "AlignDistributeVertically": {
+            "keySequence": "Alt+Shift+V",
+            "systemOverride": true,
+            "options": []
+        },
+        "PasteTextOnly": {
+            "keySequence": "Ctrl+Alt+T",
+            "systemOverride": true,
+            "options": []
+        },
+        "ViewSlideSorterView": {
+            "keySequence": "Ctrl+4",
+            "systemOverride": true,
+            "options": []
+        },
+        "ViewThumbnailViewPowerPoint": {
+            "keySequence": "Ctrl+5",
+            "systemOverride": true,
+            "options": []
+        },
+        "ObjectsAlignCenterHorizontalSmart": {
+            "keySequence": "Ctrl+Alt+C",
+            "systemOverride": true,
+            "options": []
+        },
+        "ObjectsAlignMiddleVerticalSmart": {
+            "keySequence": "Ctrl+Alt+M",
+            "systemOverride": true,
+            "options": []
+        },
+        "ObjectSendToBack": {
+            "keySequence": "Alt+Shift+B",
+            "systemOverride": true,
+            "options": []
+        },
+        "Redo": {
+            "keySequence": "Ctrl+Y",
+            "systemOverride": true,
+            "options": []
+        },
+        "TableCellAlignCenterVertically": {
+            "keySequence": "Alt+Shift+M",
+            "systemOverride": true,
+            "options": []
+        },
+        "TableCellAlignTop": {
+            "keySequence": "Alt+Shift+T",
+            "systemOverride": true,
+            "options": []
+        },
+        "ObjectBringForward": {
+            "keySequence": "Ctrl+Shift+]",
+            "systemOverride": true,
+            "options": []
+        },
+        "ObjectSendBackward": {
+            "keySequence": "Ctrl+Shift+[",
+            "systemOverride": true,
+            "options": []
+        }
+    },
+    "custom": {
+        "ToSameSize": {
+            "keySequence": "Ctrl+Alt+Shift+E",
+            "systemOverride": true,
+            "options": []
+        },
+        "ToSameHeight": {
+            "keySequence": "Ctrl+Shift+E",
+            "systemOverride": true,
+            "options": []
+        },
+        "SelectSimilar": {
+            "keySequence": "Ctrl+Alt+Shift+S",
+            "systemOverride": true,
+            "options": []
+        },
+        "SendToEnd": {
+            "keySequence": "Ctrl+Alt+Shift+A",
+            "systemOverride": true,
+            "options": []
+        },
+        "ToggleAccentColor": {
+            "keySequence": "Alt+Shift+A",
+            "systemOverride": true,
+            "options": []
+        },
+        "SplitText": {
+            "keySequence": "Ctrl+Alt+J",
+            "systemOverride": true,
+            "options": []
+        },
+        "BoldColor": {
+            "keySequence": "Ctrl+Shift+B",
+            "systemOverride": true,
+            "options": [
+                {
+                    "name": "ColorPicker",
+                    "value": {
+                        "red": 148,
+                        "green": 29,
+                        "blue": 57,
+                        "alpha": 1
+                    }
+                }
+            ]
+        },
+        "SwitchPosition": {
+            "keySequence": "Ctrl+Alt+P",
+            "systemOverride": true,
+            "options": []
+        },
+        "MergeTextBoxes": {
+            "keySequence": "Ctrl+Alt+Shift+J",
+            "systemOverride": true,
+            "options": []
+        },
+        "ToDefaultBullet": {
+            "keySequence": "Ctrl+Shift+T",
+            "systemOverride": true,
+            "options": []
+        },
+        "ToDefaultTextBox": {
+            "keySequence": "Ctrl+Alt+Shift+T",
+            "systemOverride": true,
+            "options": []
+        },
+        "ToggleMargin": {
+            "keySequence": "Ctrl+Alt+Shift+M",
+            "systemOverride": true,
+            "options": []
+        },
+        "ToggleAutofit": {
+            "keySequence": "Ctrl+8",
+            "systemOverride": true,
+            "options": []
+        },
+        "ToggleTextWrap": {
+            "keySequence": "Ctrl+7",
+            "systemOverride": true,
+            "options": []
+        },
+        "IncreaseLinespace": {
+            "keySequence": "Ctrl+Shift+L",
+            "systemOverride": true,
+            "options": []
+        },
+        "DecreaseLinespace": {
+            "keySequence": "Ctrl+Alt+Shift+L",
+            "systemOverride": true,
+            "options": []
+        },
+        "AddDefaultTextBox": {
+            "keySequence": "Alt+Shift+Q",
+            "systemOverride": true,
+            "options": [
+                {
+                    "name": "FontSize",
+                    "value": 16
+                }
+            ]
+        },
+        "AddStickyNote": {
+            "keySequence": "Ctrl+0",
+            "systemOverride": true,
+            "options": []
+        },
+        "AddTitleBox": {
+            "keySequence": "Ctrl+1",
+            "systemOverride": true,
+            "options": [
+                {
+                    "name": "TextAlignment",
+                    "value": "Left"
+                },
+                {
+                    "name": "LineWeight",
+                    "value": 0.75
+                },
+                {
+                    "name": "FontSize",
+                    "value": 16
+                }
+            ]
+        },
+        "AddSource": {
+            "keySequence": "Ctrl+Alt+S",
+            "systemOverride": true,
+            "options": [
+                {
+                    "name": "PropSource",
+                    "value": "SlideMaster"
+                },
+                {
+                    "name": "Text",
+                    "value": "出所"
+                }
+            ]
+        },
+        "AddFootnote": {
+            "keySequence": "Ctrl+Alt+F",
+            "systemOverride": true,
+            "options": [
+                {
+                    "name": "PropSource",
+                    "value": "SlideMaster"
+                }
+            ]
+        },
+        "ToSameWidth": {
+            "keySequence": "Ctrl+Alt+E",
+            "systemOverride": true,
+            "options": []
+        },
+        "AddRectangle": {
+            "keySequence": "Ctrl+Shift+1",
+            "systemOverride": true,
+            "options": []
+        },
+        "AddTriangle": {
+            "keySequence": "Ctrl+Alt+1",
+            "systemOverride": true,
+            "options": []
+        },
+        "AddHorizontalLine": {
+            "keySequence": "Ctrl+2",
+            "systemOverride": true,
+            "options": []
+        },
+        "AddVerticalLine": {
+            "keySequence": "Ctrl+Shift+2",
+            "systemOverride": true,
+            "options": []
+        },
+        "AddHorizontalArrowLine": {
+            "keySequence": "Ctrl+Alt+2",
+            "systemOverride": true,
+            "options": []
+        },
+        "AddConnecter": {
+            "keySequence": "Ctrl+Alt+Shift+2",
+            "systemOverride": true,
+            "options": []
+        },
+        "ToggleLineWeight": {
+            "keySequence": "Ctrl+Alt+B",
+            "systemOverride": true,
+            "options": []
+        },
+        "PositionCopy": {
+            "keySequence": "Ctrl+Alt+Shift+C",
+            "systemOverride": true,
+            "options": []
+        },
+        "PositionPaste": {
+            "keySequence": "Ctrl+Alt+Shift+V",
+            "systemOverride": true,
+            "options": []
+        },
+        "ToggleLineDash": {
+            "keySequence": "Ctrl+Alt+D",
+            "systemOverride": true,
+            "options": []
+        },
+        "ToggleLineHead": {
+            "keySequence": "Ctrl+Alt+A",
+            "systemOverride": true,
+            "options": []
+        },
+        "AddLegend": {
+            "keySequence": "Ctrl+Alt+L",
+            "systemOverride": true,
+            "options": []
+        },
+        "IncreaseMargin": {
+            "keySequence": "Ctrl+Shift+M",
+            "systemOverride": true,
+            "options": []
+        },
+        "ToggleLineColor": {
+            "keySequence": "Alt+Shift+C",
+            "systemOverride": true,
+            "options": []
+        },
+        "AddCircle": {
+            "keySequence": "Ctrl+3",
+            "systemOverride": true,
+            "options": []
+        },
+        "AddOval": {
+            "keySequence": "Ctrl+Alt+3",
+            "systemOverride": true,
+            "options": []
+        },
+        "ToggleVerticalAlignment": {
+            "keySequence": "Ctrl+6",
+            "systemOverride": true,
+            "options": []
+        },
+        "ExtendToRight": {
+            "keySequence": "Ctrl+Alt+Shift+Right",
+            "systemOverride": true,
+            "options": []
+        },
+        "ExtendToLeft": {
+            "keySequence": "Ctrl+Alt+Shift+Left",
+            "systemOverride": true,
+            "options": []
+        },
+        "ExtendToTop": {
+            "keySequence": "Ctrl+Alt+Shift+Up",
+            "systemOverride": true,
+            "options": []
+        },
+        "ExtendToBottom": {
+            "keySequence": "Ctrl+Alt+Shift+Down",
+            "systemOverride": true,
+            "options": []
+        }
+    }
+}
