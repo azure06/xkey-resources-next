@@ -25,11 +25,6 @@
             "systemOverride": false,
             "options": null
         },
-        "RedoOrRepeat": {
-            "keySequence": "F4",
-            "systemOverride": true,
-            "options": []
-        },
         "Paste": {
             "keySequence": "Ctrl+V",
             "systemOverride": false,
@@ -190,16 +185,6 @@
             "systemOverride": false,
             "options": null
         },
-        "ObjectBringForward": {
-            "keySequence": "Ctrl+]",
-            "systemOverride": false,
-            "options": null
-        },
-        "ObjectSendBackward": {
-            "keySequence": "Ctrl+[",
-            "systemOverride": false,
-            "options": null
-        },
         "ObjectBringToFront": {
             "keySequence": "Alt+Shift+F",
             "systemOverride": true,
@@ -284,6 +269,16 @@
             "keySequence": "Alt+Shift+T",
             "systemOverride": true,
             "options": []
+        },
+        "ObjectBringForward": {
+            "keySequence": "Ctrl+Shift+]",
+            "systemOverride": true,
+            "options": []
+        },
+        "ObjectSendBackward": {
+            "keySequence": "Ctrl+Shift+[",
+            "systemOverride": true,
+            "options": []
         }
     },
     "custom": {
@@ -324,9 +319,9 @@
                 {
                     "name": "ColorPicker",
                     "value": {
-                        "red": 66,
-                        "green": 77,
-                        "blue": 153,
+                        "red": 148,
+                        "green": 29,
+                        "blue": 57,
                         "alpha": 1
                     }
                 }
@@ -380,7 +375,12 @@
         "AddDefaultTextBox": {
             "keySequence": "Alt+Shift+Q",
             "systemOverride": true,
-            "options": []
+            "options": [
+                {
+                    "name": "FontSize",
+                    "value": 16
+                }
+            ]
         },
         "AddStickyNote": {
             "keySequence": "Ctrl+0",
@@ -390,17 +390,44 @@
         "AddTitleBox": {
             "keySequence": "Ctrl+1",
             "systemOverride": true,
-            "options": []
+            "options": [
+                {
+                    "name": "TextAlignment",
+                    "value": "Left"
+                },
+                {
+                    "name": "LineWeight",
+                    "value": 0.75
+                },
+                {
+                    "name": "FontSize",
+                    "value": 16
+                }
+            ]
         },
         "AddSource": {
             "keySequence": "Ctrl+Alt+S",
             "systemOverride": true,
-            "options": []
+            "options": [
+                {
+                    "name": "PropSource",
+                    "value": "SlideMaster"
+                },
+                {
+                    "name": "Text",
+                    "value": "出所"
+                }
+            ]
         },
         "AddFootnote": {
             "keySequence": "Ctrl+Alt+F",
             "systemOverride": true,
-            "options": []
+            "options": [
+                {
+                    "name": "PropSource",
+                    "value": "SlideMaster"
+                }
+            ]
         },
         "ToSameWidth": {
             "keySequence": "Ctrl+Alt+E",
@@ -413,7 +440,7 @@
             "options": []
         },
         "AddTriangle": {
-            "keySequence": "Ctrl+Alt+Shift+1",
+            "keySequence": "Ctrl+Alt+1",
             "systemOverride": true,
             "options": []
         },
@@ -474,6 +501,41 @@
         },
         "ToggleLineColor": {
             "keySequence": "Alt+Shift+C",
+            "systemOverride": true,
+            "options": []
+        },
+        "AddCircle": {
+            "keySequence": "Ctrl+3",
+            "systemOverride": true,
+            "options": []
+        },
+        "AddOval": {
+            "keySequence": "Ctrl+Alt+3",
+            "systemOverride": true,
+            "options": []
+        },
+        "ToggleVerticalAlignment": {
+            "keySequence": "Ctrl+6",
+            "systemOverride": true,
+            "options": []
+        },
+        "ExtendToRight": {
+            "keySequence": "Ctrl+Alt+Shift+Right",
+            "systemOverride": true,
+            "options": []
+        },
+        "ExtendToLeft": {
+            "keySequence": "Ctrl+Alt+Shift+Left",
+            "systemOverride": true,
+            "options": []
+        },
+        "ExtendToTop": {
+            "keySequence": "Ctrl+Alt+Shift+Up",
+            "systemOverride": true,
+            "options": []
+        },
+        "ExtendToBottom": {
+            "keySequence": "Ctrl+Alt+Shift+Down",
             "systemOverride": true,
             "options": []
         }
