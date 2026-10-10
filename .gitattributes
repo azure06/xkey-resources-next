@@ -1,0 +1,3 @@
+*.vsto -text
+*.manifest -text
+*.deploy -text -whitespace
